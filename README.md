@@ -1,1 +1,1 @@
-# web-page
+# e-commerce app
